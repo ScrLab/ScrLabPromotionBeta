@@ -1,7 +1,7 @@
 # Developer Version
-<a href="https://www.dropbox.com/s/evpsqt6o346owm0/ScrLabPromotionBeta.zip?dl=0">Download</a>
+<a href="https://www.dropbox.com/s/trzclarbizir5bt/MediaArchiveB.zip?dl=0">Download</a>
 # Advertising version with promo video
-<a href="https://www.dropbox.com/s/evpsqt6o346owm0/ScrLabPromotionBeta.zip?dl=0">Download</a>
+<a href="https://www.dropbox.com/s/trzclarbizir5bt/MediaArchiveB.zip?dl=0">Download</a>
 # System Requirements
 Processor Intel® or AMD processor with 64-bit support*; 2 GHz or faster processor
 
