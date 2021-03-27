@@ -1,5 +1,3 @@
-# Developer Version
-<a href="https://www.dropbox.com/s/trzclarbizir5bt/MediaArchiveB.zip?dl=0">Download</a>
 # Advertising version with promo video
 <a href="https://www.dropbox.com/s/trzclarbizir5bt/MediaArchiveB.zip?dl=0">Download</a>
 # System Requirements
